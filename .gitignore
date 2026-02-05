@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log
+.env
+.env.local
+.env.*.local
+
+# Vite / React
+dist/
+.vite/
+
+# Logs
+logs
+*.log
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
