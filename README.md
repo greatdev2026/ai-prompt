@@ -55,7 +55,7 @@ Tech stack
 - Tailwind CSS
 
 Files of interest
-- src/lib/api.ts — API client abstraction (supports backend or direct providers)
+- src/lib/api.ts — API client abstraction (supports backend)
 - src/components/PromptInput.tsx — controlled input + submit UI
 - src/components/MessageList.tsx — accessible history list
 - src/App.tsx — glue + state management + persistence
